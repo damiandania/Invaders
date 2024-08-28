@@ -1,2 +1,2 @@
 # Invaders
-Game in Javascript
+Game in JavaScript
