@@ -7,6 +7,12 @@
 
 **Pusheen Invaders** is a fun arcade game inspired by classic space invader games, but with a unique and adorable twist: Pusheen the Cat! This project is part of the game suite designed to integrate into the **fr_transcendence** project.
 
+## Technologies Used
+
+- **JavaScript:** The game logic and functionality are implemented using JavaScript.
+- **HTML:** The game interface is built using HTML.
+- **CSS:** The game visuals and styling are done using CSS.
+
 ## Features
 
 - **Multiple Game Modes:** Choose between Arcade mode for single-player action, Versus mode to play with a friend, or join a tournament to challenge other players.
