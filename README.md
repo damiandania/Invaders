@@ -21,7 +21,7 @@
 	git clone https://github.com/damiandania/Invaders.git
 
 2. **Navigate to the project directory:**
-	``bash
+	```bash
 	cd Invaders
 
 3. **Run the game:**
