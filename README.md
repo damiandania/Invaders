@@ -3,7 +3,7 @@
 	alt="Project pic" width="150" height="150"/>
 </p>
 
-# Invaders
+# Invaders 👾
 
 **Pusheen Invaders** is a fun arcade game inspired by classic space invader games, but with a unique and adorable twist: Pusheen the Cat! This project is part of the game suite designed to integrate into the **fr_transcendence** project.
 
